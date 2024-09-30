@@ -8,4 +8,4 @@ Focused on user experience and interface design to provide a seamless experience
 
 ## Live Demo
 
-Click here (https://weather-app-opal-seven-17.vercel.app/)
+[Click here](https://weather-app-opal-seven-17.vercel.app/)
