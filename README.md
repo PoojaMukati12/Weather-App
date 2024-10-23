@@ -1,4 +1,4 @@
-# Weather App
+# Weather App🌤️
 
 Build a Weather forecasting application using React.js and OpenWeatherMap API.
 
